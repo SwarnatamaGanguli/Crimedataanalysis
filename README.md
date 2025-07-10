@@ -1,3 +1,8 @@
+
+![Capture](https://github.com/user-attachments/assets/f31df89a-67d2-4331-969a-57c7dc022390)
+
+
+
 Crime Data Analysis – Regional Crime Trends & Patterns
 This Power BI dashboard presents an in-depth analysis of crime data across multiple countries and time periods, providing clear insights into crime trends, locations, time of occurrence, and crime types.
 
